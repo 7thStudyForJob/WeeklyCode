@@ -1,4 +1,4 @@
-import sys; sys.stdin=open("상어초등학교.txt")
+import sys; sys.stdin=open("백준_상어초등학교_21608.txt")
 
 N = int(input())
 answer = 0
