@@ -9,4 +9,6 @@
 | ---------------- | ------------------------------------------------------------ | ------------------------------ | ------------------------------------------- |
 | 3월 1주차(공통)  |                                                              |                                |                                             |
 | 3월 1주차(자유)  | 소프티어(https://softeer.ai/practice/info.do?idx=1&eid=1309) | [인증평가(5차) 기출] 성적 평가 | https://blog.naver.com/kww0915/223037954478 |
+| 3월 2주차(공통)  | 프로그래머스(https://school.programmers.co.kr/learn/courses/30/lessons/161989) | level2 덧칠하기                | https://blog.naver.com/kww0915/223046809707 |
+| 3월 2주차(자유)  | 프로그래머스(https://school.programmers.co.kr/learn/courses/30/lessons/150368) | level2 이모티콘 할인           | https://blog.naver.com/kww0915/223046819335 |
 
