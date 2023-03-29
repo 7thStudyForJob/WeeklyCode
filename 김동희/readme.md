@@ -11,10 +11,11 @@
 
 ## 프로그래머스
 
-| n주차(공통/자유) |                             문제                             | 등급 |                     풀이                     |
-| :--------------: | :----------------------------------------------------------: | :--: | :------------------------------------------: |
-| 3월 2주차(공통)  | [덧칠하기](https://school.programmers.co.kr/learn/courses/30/lessons/161989) |  L2  |  [바로가기](./프로그래머스/Level2/덧칠하기)  |
-| 3월 2주차(자율)  | [리코쳇로봇](https://school.programmers.co.kr/learn/courses/30/lessons/169199) |  L2  | [바로가기](./프로그래머스/Level2/리코쳇로봇) |
-| 3월 3주차(자율)  | [광물캐기](https://school.programmers.co.kr/learn/courses/30/lessons/172927) |  L2  |  [바로가기](./프로그래머스/Level2/광물캐기)  |
-| 3월 5주차(공통)  | [더맵게](https://school.programmers.co.kr/learn/courses/30/lessons/42626) |  L2  |   [바로가기](./프로그래머스/Level2/더맵게)   |
+| n주차(공통/자유) |                             문제                             | 등급 |                         풀이                          |
+| :--------------: | :----------------------------------------------------------: | :--: | :---------------------------------------------------: |
+| 3월 2주차(공통)  | [덧칠하기](https://school.programmers.co.kr/learn/courses/30/lessons/161989) |  L2  |      [바로가기](./프로그래머스/Level2/덧칠하기)       |
+| 3월 2주차(자율)  | [리코쳇로봇](https://school.programmers.co.kr/learn/courses/30/lessons/169199) |  L2  |     [바로가기](./프로그래머스/Level2/리코쳇로봇)      |
+| 3월 3주차(자율)  | [광물캐기](https://school.programmers.co.kr/learn/courses/30/lessons/172927) |  L2  |      [바로가기](./프로그래머스/Level2/광물캐기)       |
+| 3월 5주차(공통)  | [더맵게](https://school.programmers.co.kr/learn/courses/30/lessons/42626) |  L2  |       [바로가기](./프로그래머스/Level2/더맵게)        |
+| 3월 5주차 (자율) | [디스크 컨트롤러](https://school.programmers.co.kr/learn/courses/30/lessons/42627) |  L3  | [바로가기](./프로그래머스/Level3/디스크컨트롤러_Heap) |
 
