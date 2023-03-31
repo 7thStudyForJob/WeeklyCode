@@ -41,7 +41,6 @@ def getNumList(maxNum):
 			num += 1
 		else:
 			num //= 10
-            # num = maxNum 이고 10으로 나눈 값이 0, 즉 num = maxNum = 9라면 그대로 종료.
 			if(num == 0):
 				break
 			num += 1
