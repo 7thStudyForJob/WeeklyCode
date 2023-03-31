@@ -16,7 +16,7 @@ public class 백준_숫자고르기_2668 {
         check = new boolean[n+1];
         list = new ArrayList<>();
 
-        for(int i=0;i<=n;i++){
+        for(int i=1;i<=n;i++){
             arr[i] = sc.nextInt();
         }
 
@@ -34,14 +34,14 @@ public class 백준_숫자고르기_2668 {
     }
 
     public static void dfs(int start, int end){
-        if(arr[n] == end){
-            list.add(end);
-        }
-
         if(!check[arr[start]]){
             check[arr[start]] = true;
             dfs(arr[start],end);
             check[arr[start]] = false;
+        }
+        
+        if(arr[start] == end){
+            list.add(end);
         }
     }
 }
