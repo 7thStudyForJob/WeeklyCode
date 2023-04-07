@@ -12,10 +12,10 @@
 
 ## 프로그래머스
 
-| n주차(공통/자유) |                             문제                             | 등급 |                    풀이                    |
-| :--------------: | :----------------------------------------------------------: | :--: | :----------------------------------------: |
-| 3월 2주차(공통)  | [덧칠하기](https://school.programmers.co.kr/learn/courses/30/lessons/161989) |  L2  |  [바로가기](./프로그래머스_덧칠하기.java)  |
-| 3월 5주차(공통)  | [더맵게](https://school.programmers.co.kr/learn/courses/30/lessons/42626) |  L2  |  [바로가기](./프로그래머스_더_맵게.java)   |
-| 3월 5주차(자율)  | [양궁게임](https://school.programmers.co.kr/learn/courses/30/lessons/92342) |  L2  | [바로가기]("./프로그래머스_양궁대회.java") |
-|                  |                                                              |      |                                            |
-|                  |                                                              |      |                                            |
+| n주차(공통/자유) |                             문제                             | 등급 |                         풀이                          |
+| :--------------: | :----------------------------------------------------------: | :--: | :---------------------------------------------------: |
+| 3월 2주차(공통)  | [덧칠하기](https://school.programmers.co.kr/learn/courses/30/lessons/161989) |  L2  |       [바로가기](./프로그래머스_덧칠하기.java)        |
+| 3월 5주차(공통)  | [더맵게](https://school.programmers.co.kr/learn/courses/30/lessons/42626) |  L2  |        [바로가기](./프로그래머스_더_맵게.java)        |
+| 3월 5주차(자율)  | [양궁게임](https://school.programmers.co.kr/learn/courses/30/lessons/92342) |  L2  |      [바로가기]("./프로그래머스_양궁대회.java")       |
+| 4월 1주차(자율)  | [연속된 부분 수열의 합](https://school.programmers.co.kr/learn/courses/30/lessons/178870) |  L2  | [바로가기](./프로그래머스_연속된_부분_수열의_합.java) |
+|                  |                                                              |      |                                                       |
