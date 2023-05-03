@@ -1,4 +1,7 @@
-import sys; sys.stdin=open("N과M2.txt")
+import sys
+sys.stdin=open("N과M2.txt")
+sys.setrecursionlimit(5000)
+
 n, m = map(int, sys.stdin.readline().split())
 
 result = [0] * m
