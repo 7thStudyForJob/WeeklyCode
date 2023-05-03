@@ -8,8 +8,9 @@
 | 3월 3주차(공통)  |   [톱니바퀴](https://www.acmicpc.net/problem/14891)   |  골드  |    [바로가기](./백준/구현/톱니바퀴_DFS)    |
 | 4월 1주차(공통)  | [회의실배정4](https://www.acmicpc.net/problem/19623)  |  골드  |     [바로가기](./백준/DP/회의실배정4)      |
 | 4월 3주차(공통)  | [서강그라운드](https://www.acmicpc.net/problem/14938) |  골드  | [바로가기](./백준/다익스트라/서강그라운드) |
-| 4월 4주차(자율)  |    [N과M1](https://www.acmicpc.net/problem/15649)     |  실버  |     [바로가기](./백준/백트래킹/N과M1)      |
-| 4월 4주차(자율)  |    [N과M2](https://www.acmicpc.net/problem/15650)     |  실버  |     [바로가기](./백준/백트래킹/N과M2)      |
+| 4월 3주차(자율)  |    [N과M1](https://www.acmicpc.net/problem/15649)     |  실버  |     [바로가기](./백준/백트래킹/N과M1)      |
+| 4월 3주차(자율)  |    [N과M2](https://www.acmicpc.net/problem/15650)     |  실버  |     [바로가기](./백준/백트래킹/N과M2)      |
+| 4월 4주차(자율)  |     [운동](https://www.acmicpc.net/problem/1956)      |  골드  |       [바로가기](./백준/그래프/운동)       |
 | 5월 1주차(공통)  |   [보석도둑](https://www.acmicpc.net/problem/1202)    |  골드  |   [바로가기](./백준/우선순위큐/보석도둑)   |
 |                  |                                                       |        |                                            |
 |                  |                                                       |        |                                            |
