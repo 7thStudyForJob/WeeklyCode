@@ -35,13 +35,13 @@ for i in range(N**2):
 
 for i in range(N):
     for j in range(N):
-        check = arr[i][j]
+        permu = arr[i][j]
         cnt = 0
         for z in range(4):
             nx = i + dx[z]
             ny = j + dy[z]
             if nx < 0 or nx >= N or ny < 0 or ny >= N: continue
-            if arr[nx][ny] in like_students[check][0]:
+            if arr[nx][ny] in like_students[permu][0]:
                 cnt += 1
 
         if cnt == 1:

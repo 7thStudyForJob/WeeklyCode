@@ -9,17 +9,17 @@ def isSosu(n):
             return False
     return True
 
-check = [False, False] + [True] * (N-1)
+permu = [False, False] + [True] * (N - 1)
 def isSosu2(n):
     '''
     2배 부터 시작해서 자기만큼의 거리를 이미 check[n] = False
     '''
     for i in range(2 * n, N+1, n):
-        check[i] = False
+        permu[i] = False
 
 # 구해보기.
 for i in range(2, N + 1):
-    if check[i]:
+    if permu[i]:
         arr.append(i)
         isSosu2(i)
 
