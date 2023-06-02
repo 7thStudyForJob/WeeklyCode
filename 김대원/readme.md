@@ -11,8 +11,13 @@
 | 4월 3주차(공통)  |   [서강그라운드](https://www.acmicpc.net/problem/14938)   | 골드 |   [바로가기](./백준_서강그라운드_14938.java)   |
 | 4월 3주차(자율)  |   [감시](https://www.acmicpc.net/problem/15683)   | 골드 |   [바로가기](./백준_감시_15683.java)   |
 | 4월 4주차(공통)  |  [운동](https://www.acmicpc.net/problem/1956)  | 골드 |  [바로가기](./백준_운동_1956.java)   |
-| 4월 4주차(자율)  |  [2048(EASY)](https://www.acmicpc.net/problem/12100)  | 골드 |  [바로가기](./백준_2048(EASY)_12100.java)   |
-
+| 5월 1주차(자율)  |  [2048(EASY)](https://www.acmicpc.net/problem/12100)  | 골드 |  [바로가기](./백준_2048(EASY)_12100.java)   |
+| 5월 2주차(자율)  |  [도시건설](https://www.acmicpc.net/problem/21924)  | 골드 |  [바로가기](./백준_도시건설_21924.java)   |
+| 5월 3주차(자율)  |  [청소년상어](https://www.acmicpc.net/problem/19236)  | 골드 |  [바로가기](./백준_청소년상어_19236.java)   |
+| 5월 4주차(공통)  |  [스타트택시](https://www.acmicpc.net/problem/19238)  | 골드 |  [바로가기](./백준_스타트택시_19238.java)   |
+| 5월 4주차(자율)  |  [연구소3](https://www.acmicpc.net/problem/17142)  | 골드 |  [바로가기](./백준_연구소3_17142.java)   |
+| 5월 5주차(공통)  |  [세용액](https://www.acmicpc.net/problem/2473)  | 골드 |  [바로가기](./백준_세용액_2473.java)   |
+| 5월 5주차(자율)  |  [마법사상어와파이어볼](https://www.acmicpc.net/problem/20056)  | 골드 |  [바로가기](./백준_마법사상어와파이어볼_20056.java)   |
 
 
 ## 프로그래머스
